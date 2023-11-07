@@ -1,4 +1,3 @@
-# jokenpo
 
 <h1>SOBRE O PROJETO:</h1>
 <div>
